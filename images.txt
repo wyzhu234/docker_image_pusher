@@ -2,7 +2,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-gitlab/gitlab-ce:v17.2.0
+gitlab/gitlab-ce
 #gitlab/gitlab-runner:v17.2.0
 
 
