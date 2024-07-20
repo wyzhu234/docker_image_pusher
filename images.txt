@@ -4,5 +4,6 @@
 #xhofe/alist:latest
 gitlab/gitlab:v17.2.0
 gitlab/gitlab-runner:v17.2.0
+
 #支持指定架构
 --platform=linux/amd64
