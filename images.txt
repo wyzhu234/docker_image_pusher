@@ -2,9 +2,9 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-gitlab/gitlab-ce
+#gitlab/gitlab-ce
 #gitlab/gitlab-runner:v17.2.0
-
+matterstech/gitlab-container-registry --platform=linux/amd64
 
 #支持指定架构
 #--platform=linux/amd64
