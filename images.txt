@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #gitlab/gitlab-ce
 #gitlab/gitlab-runner:v17.2.0
-goharbor/prepare:v2.10.3 --platform=linux/amd64
+goharbor/prepare:v2.10.3
+#--platform=linux/amd64
 
 #支持指定架构
 #--platform=linux/amd64
